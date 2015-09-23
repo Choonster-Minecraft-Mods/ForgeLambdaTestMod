@@ -1,0 +1,1 @@
+This is a small mod to test the use of lambdas to implement `ItemMeshDefinition`.

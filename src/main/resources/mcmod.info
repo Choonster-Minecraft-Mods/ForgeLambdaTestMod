@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgelambdatestmod",
+  "name": "Forge Lambda Test Mod",
+  "description": "A small mod to test the use of lambdas to implement ItemMeshDefinition.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Choonster"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
